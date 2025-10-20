@@ -20,8 +20,8 @@
 ---
 
 ### 🏆 Featured Projects  
-- 📈 [**Backtesting Framework**](https://github.com/UWQSC/backtesting-framework)  
-  *Trading engine with SMA strategies, modular design, and visual metrics (CAGR, Sharpe, max drawdown).*  
+- 📈 [**InsightSQL**](https://github.com/Raghav9909/InsightSQL)  
+  *AI-powered database query tool that translates natural language questions into SQL queries.*  
 
 - 🏰 [**CC3K+**](https://github.com/Raghav9909/CC3K)  
   *A C++ rogue-like dungeon crawler using OOP design principles and real-time text-based rendering.*  
